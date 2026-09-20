@@ -1,0 +1,6 @@
+{
+  "name": "SchemeMate AI",
+  "description": "AI-powered Government Scheme Matching Assistant for citizens in India to discover eligibility, explore benefits, and understand application requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
